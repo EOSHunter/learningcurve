@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="105px" height="19px" viewBox="0 0 105 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>stars</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-381.000000, -726.000000)">
+            <g id="Recommended" transform="translate(210.000000, 600.000000)">
+                <g id="Results" transform="translate(20.000000, 40.000000)">
+                    <g id="stars" transform="translate(151.000000, 86.000000)">
+                        <polygon id="Star" fill="#AC363A" points="10 15 4.12214748 18.0901699 5.24471742 11.545085 0.489434837 6.90983006 7.06107374 5.95491503 10 0 12.9389263 5.95491503 19.5105652 6.90983006 14.7552826 11.545085 15.8778525 18.0901699"></polygon>
+                        <polygon id="Star-Copy-2" fill="#AC363A" points="53 15 47.1221475 18.0901699 48.2447174 11.545085 43.4894348 6.90983006 50.0610737 5.95491503 53 0 55.9389263 5.95491503 62.5105652 6.90983006 57.7552826 11.545085 58.8778525 18.0901699"></polygon>
+                        <polygon id="Star-Copy" fill="#AC363A" points="31 15 25.1221475 18.0901699 26.2447174 11.545085 21.4894348 6.90983006 28.0610737 5.95491503 31 0 33.9389263 5.95491503 40.5105652 6.90983006 35.7552826 11.545085 36.8778525 18.0901699"></polygon>
+                        <polygon id="Star-Copy-3" fill="#AC363A" points="74 15 68.1221475 18.0901699 69.2447174 11.545085 64.4894348 6.90983006 71.0610737 5.95491503 74 0 76.9389263 5.95491503 83.5105652 6.90983006 78.7552826 11.545085 79.8778525 18.0901699"></polygon>
+                        <polygon id="Star-Copy-4" fill="#DDDDDD" points="95 15 89.1221475 18.0901699 90.2447174 11.545085 85.4894348 6.90983006 92.0610737 5.95491503 95 0 97.9389263 5.95491503 104.510565 6.90983006 99.7552826 11.545085 100.877853 18.0901699"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
